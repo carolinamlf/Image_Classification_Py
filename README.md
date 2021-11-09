@@ -1,1 +1,3 @@
-# Image_Classification_Py
+# Image Classification
+
+1- Image manipulation with PILLOW bib.
