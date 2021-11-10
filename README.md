@@ -1,3 +1,3 @@
 # Image Classification
 
-1- Image manipulation with PILLOW bib.
+1- Image manipulation with PILLOW lib.
